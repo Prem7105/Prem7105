@@ -42,7 +42,6 @@
 
 🔹 **[MarketPulse](https://github.com/Prem7105/MarketPulse)** → Market analytics and tracking.  
 🔹 **[WeatherGPT](https://github.com/Prem7105/weathergpt)** → AI-powered weather forecasting and reporting.  
-🔹 **[Amazon ML](https://github.com/Prem7105/amazon-ml)** → Machine learning models for e-commerce data.  
 🔹 **[Heart Risk Prediction](https://github.com/Prem7105/Heart-Risk-Prediction)** → Health data analysis and risk prediction models.  
 
 ---
