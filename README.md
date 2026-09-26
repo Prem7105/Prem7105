@@ -47,17 +47,4 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prem7105&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Prem's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem7105&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" />
-</div>
-<br/>
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=Prem7105&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ✨ *"while(alive) { learn(); build(); improve(); }"*
