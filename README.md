@@ -60,17 +60,4 @@
 
 ---
 
-## 👀 Profile Visitors
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Prem7105&style=for-the-badge&color=00bcd4&label=PROFILE+VIEWS)  
-
----
-
-## 📫 Connect with Me  
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prem7105)
-<!-- Add your LinkedIn badge here later! e.g. [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile) -->
-
----
-
 ✨ *"while(alive) { learn(); build(); improve(); }"*
